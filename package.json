@@ -1,0 +1,20 @@
+{
+  "name": "discord-decorator",
+  "version": "0.0.1",
+  "description": "Parse decorator into object",
+  "main": "lib.js",
+  "repository": "Fastering18/discord-decorator",
+  "scripts": {
+    "test": "node lib.test.js"
+  },
+  "keywords": [
+    "decorator",
+    "discord"
+  ],
+  "author": {
+		"name": "Fastering18",
+		"email": "blackerzdiscord@gmail.com",
+		"url": "https://discord.gg/zh9zknfGPp"
+	},
+  "license": "MIT"
+}

@@ -1,0 +1,2 @@
+# discord-decorator
+Parse decorator

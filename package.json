@@ -1,6 +1,6 @@
 {
   "name": "discord-decorator",
-  "version": "0.0.1",
+  "version": "0.0.15",
   "description": "Parse decorator into object",
   "main": "lib.js",
   "repository": "Fastering18/discord-decorator",

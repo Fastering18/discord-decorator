@@ -24,6 +24,8 @@ console.log(decor);
 | ----------- | ----------- |
 | prefix      | array of prefix, example `["--", "-"]` |
 | defaultValue   | if a decorator found with no value, it will return `defaultValue` |
+| multiSpace   | tell to parser to capture next word until new decorator found or meet the EOF |
 
 
 For more info, [Github link](https://github.com/Fastering18/discord-decorator)  
+Discord, [server](https://discord.gg/zh9zknfGPp)  
